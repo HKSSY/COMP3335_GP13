@@ -1,0 +1,11 @@
+{
+  "title": "Wordpress/WooCommerce security",
+  "description": "secuirty",
+  "courses": [
+    {
+      "course_id": "wordpressTest",
+      "title": "wordpress+woocommerce",
+      "description": "test"
+    }
+  ]
+}
