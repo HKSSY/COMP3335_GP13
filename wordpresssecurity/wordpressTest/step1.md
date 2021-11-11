@@ -7,3 +7,5 @@ In this scenario, we will teach you how to enable the Two-factor authentication(
 Clone our contains the set of documentation with the following command:
 
 `docker run --name db -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=wordpress -e MYSQL_USER=wordpress -e MYSQL_PASSWORD=wordpress -d mysql:8`{{copy}}
+
+`top`{{copy}}
