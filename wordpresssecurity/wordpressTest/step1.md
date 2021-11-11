@@ -8,6 +8,10 @@ Clone our configurations file with the following command:
 
 `wget https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/docker-compose.yml`{{execute}}
 
-After the configurations file has been downloaded, click the Continue button to continue the scenario.
+After the configurations file has been downloaded, please go to the next step.
 
 ## Start the Docker compose
+
+Click the following command for start the docker compose:
+
+`docker-compose up`{{execute}}
