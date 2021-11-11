@@ -2,4 +2,4 @@ We will be going to install a WordPress plugin which is called "WooCommerce". Th
 
 ## Install WordPress Plugin
 
-The easiest way of installing a free WordPress plugin is via the plugin search. It starts by clicking on “Plugins” in the sidebar menu:
+The easiest way for installing a free WordPress plugin is using the WordPress Plugin Directory. It starts by clicking on “Plugins” in the sidebar menu:
