@@ -4,7 +4,7 @@ In this scenario, we will teach you how to enable the Two-factor authentication(
 
 ## Download the configuration file
 
-First, we need to download the docker-compose file. This is a tool for defining and running multi-container Docker applications. We can create a file to define the docker environment so it can be reproduced anywhere. For more information about docker-compose, please click [**here**](https://docs.docker.com/compose/).
+We need to download the docker-compose file. This is a tool for defining and running multi-container Docker applications. We can create a file to define the docker environment so it can be reproduced anywhere. For more information about docker-compose, please click [**here**](https://docs.docker.com/compose/).
 
 Clone our configurations file with the following command:
 
