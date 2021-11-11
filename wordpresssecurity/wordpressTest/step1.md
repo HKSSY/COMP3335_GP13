@@ -16,4 +16,4 @@ Once you have a Compose file, you can create and start the application with a si
 
 `docker-compose up`{{execute}}
 
-Please wait until the container is “done”.
+Wait until the container displays the “done” text on the terminal. After that, click the "CONTINUE" for the next step.
