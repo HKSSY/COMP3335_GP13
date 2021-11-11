@@ -6,6 +6,6 @@ In this scenario, we will teach you how to enable the Two-factor authentication(
 
 Clone our contains the set of documentation with the following command:
 
-`git clone `{{execute}}
+`wget https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/docker-compose.yml`{{execute}}
 
 Within the repository, you will see a set of examples of implementing various Katacoda functionality.
