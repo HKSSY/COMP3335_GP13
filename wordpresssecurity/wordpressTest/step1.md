@@ -6,4 +6,6 @@ In this scenario, we will teach you how to enable the Two-factor authentication(
 
 Clone our contains the set of documentation with the following command:
 
-`git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{execute}}
+`docker run --name db -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=wordpress -e MYSQL_USER=wordpress -e MYSQL_PASSWORD=wordpress -d mysql:8
+
+docker run --name wordpress -e WORDPRESS_DB_HOST="172.18.0.2:3306" -e WORDPRESS_DB_USER=wordpress -e WORDPRESS_DB_PASSWORD=wordpress -e WORDPRESS_DB_NAME=wordpress -p 8080:80 -d wordpress`
