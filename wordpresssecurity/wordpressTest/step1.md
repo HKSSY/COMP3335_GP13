@@ -1,4 +1,4 @@
-We'll start by downloading the docker-compose file. Then, we'll execute the docker-compose and select the tag "Port 8080" for connecting the WordPress service.
+We'll start by downloading the docker-compose file. Then, we'll execute the docker-compose and select the tag "WordPress" for connecting the WordPress service.
 
 ## Download the configuration file
 
@@ -12,6 +12,8 @@ After the configurations file has been downloaded, please go to the next step.
 
 ## Start the Docker compose
 
-Once you have a Compose file, you can create and start your application with a single command:
+Once you have a Compose file, you can create and start the application with a single command:
 
 `docker-compose up`{{execute}}
+
+Please wait until the container is “done”.
