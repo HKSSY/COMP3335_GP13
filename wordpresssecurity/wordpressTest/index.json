@@ -1,6 +1,6 @@
 {
   "title": "How to enable Two-factor authentication on WordPress/WooCommerce.",
-  "description": "test",
+  "description": "Welcome!",
   "difficulty": "Beginner",
   "time": "60",
   "details": {
@@ -23,7 +23,6 @@
   },
   "environment": {
     "showide": true,
-    "hideintro": true,
     "showdashboard": true,
     "dashboards": [
       {"name": "Port 8080", "port": 8080}],
