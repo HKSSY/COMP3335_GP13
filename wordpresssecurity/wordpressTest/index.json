@@ -10,8 +10,12 @@
         "text": "step1.md"
       },
       {
-        "title": "Connect to WordPress and Install Plugin",
+        "title": "Connect and Install WordPress",
         "text": "step2.md"
+      }
+      {
+        "title": "Install WordPress plugin",
+        "text": "step3.md"
       }
     ],
     "intro": {
