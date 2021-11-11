@@ -2,7 +2,7 @@ By some estimates, about 30000 to 50000 websites get hacked every day. Being sec
 
 In this scenario, we will teach you how to enable the Two-factor authentication(2FA) function on your WordPress / WooCommerce platform to become more secure.
 
-## Task
+## Download the configuration file
 
 Clone our contains the set of configurations file with the following command:
 
