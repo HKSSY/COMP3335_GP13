@@ -1,0 +1,46 @@
+{
+  "title": "How to improve the security level on WordPress by using Wordfence plugin.",
+  "description": "Welcome! By some estimates, about 30000 to 50000 websites get hacked every day. Being secure in the internet world becomes more and more important and it is necessary to protect your website and the data. In this scenario, we will teach you how to enable the Two-factor authentication(2FA) function on your WordPress / WooCommerce platform to become more secure.",
+  "difficulty": "Beginner",
+  "time": "60",
+  "details": {
+    "steps": [
+      {
+        "title": "Install and Start docker container",
+        "text": "step1.md"
+      },
+      {
+        "title": "Connect and Install WordPress",
+        "text": "step2.md"
+      },
+      {
+        "title": "Install WordPress plugin",
+        "text": "step3.md"
+      },
+      {
+        "title": "Setup WooCommerce",
+        "text": "step4.md"
+      },
+      {
+        "title": "Enable 2FA on WordPress / WooCommerce",
+        "text": "step5.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "showdashboard": true,
+    "dashboards": [
+      {"name": "WordPress", "port": 8080}],
+    "uilayout": "terminal-iframe"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
