@@ -23,3 +23,5 @@ A popup will appear called "Optimize Wordfence Firewall". Normally, the correct 
 To prevent any issues during the optimization procedure, click the "DOWNLOAD .HTACCESS" button for downloading a backup file about your server configuration file. Next, click the "CONTINUE" button to optimize the firewall.
 
 ![Wordfence popup page for optimize the wordfence firewall](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_optimize_wordpress_firewall.png)
+
+If installed successfully, you should see an alert appear with the message "Nice work! The firewall is now optimized." Click the "CLOSE" button to continue.
