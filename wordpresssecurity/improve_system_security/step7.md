@@ -13,3 +13,7 @@ Next coming up, to make the firewall more secure, we can configure the firewall 
 Choose the "Wordfence" and "Firewall" buttons from the left side sidebar menu. After that, click the "MANAGE FIREWALL" button to visit the "Firewall Options" page.
 
 ![Wordfence manage firewall button](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_manage_firewall_button.png)
+
+On the Firewall Options page, click the "OPTIMIZE THE WORDFENCE FIREWALL" button.
+
+![Wordfence optimize the wordfence firewall button](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_optimize_firewall.png)
