@@ -6,4 +6,6 @@ When WooCommerce is activated for the first time, the WooCommerce Setup Wizard w
 
 ![WooCommerce install page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/woocommerce_install_page.png)
 
-There has 5 steps for the setup wizard. Please fill in the information for finish it.
+There have 5 steps for the setup wizard. Please fill in the information for finish it. Once you finish the wizard, you will back to the WordPress interface for the next step.
+
+## Set 2FA on the WooCommerce
