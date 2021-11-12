@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Install and Start docker container",
+        "title": "Install and Start Docker Container",
         "text": "step1.md"
       },
       {
@@ -14,7 +14,7 @@
         "text": "step2.md"
       },
       {
-        "title": "Install WordPress plugin",
+        "title": "Install WordPress Plugin",
         "text": "step3.md"
       },
       {
@@ -26,12 +26,16 @@
         "text": "step5.md"
       },
       {
-        "title": "Run a Wordfence scan to check your website",
+        "title": "Run a Wordfence Scan to Check Your Website",
         "text": "step6.md"
       },
       {
-        "title": "Configure the Wordfence firewall",
+        "title": "Configure the Wordfence Firewall",
         "text": "step7.md"
+      },
+      {
+        "title": "View the Real-Time Live Traffic",
+        "text": "step8.md"
       }
     ],
     "intro": {
