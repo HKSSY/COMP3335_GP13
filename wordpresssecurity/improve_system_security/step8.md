@@ -14,4 +14,4 @@ Click the view button to check the traffic detail:
 
 ![View log data from live traffic page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_view_log_data_detail.png)
 
-You can analyze the activity detail by "WHOIS LOOKUP" tool to track the owner's register information.
+You can analyze the activity detail by "WHOIS LOOKUP" tool to track the owner's register information. If the activity is suspicious, you may click the “Block IP” button to block that IP address. Note that if you use the button to block an IP address it is a temporary block controlled by the option “How long is an IP address blocked when it breaks a rule”. You can find this option in the “Rate Limiting” section on the “Firewall Options” page.
