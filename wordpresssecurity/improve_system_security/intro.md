@@ -1,1 +1,1 @@
-The way to improve system security via Wordfence
+The way to improve system security via Wordfence plugin
