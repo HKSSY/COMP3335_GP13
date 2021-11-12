@@ -11,3 +11,7 @@ Try to logout of your WordPress account and re-login the account with the wrong 
 ![View log data from live traffic page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_view_log_data.png)
 
 Click the view button to check the traffic detail:
+
+![View log data from live traffic page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_view_log_data_detail.png)
+
+You can analyze the activity detail by "WHOIS LOOKUP" tool to track the owner's register information.
