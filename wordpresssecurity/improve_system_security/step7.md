@@ -8,7 +8,7 @@ The default setting of the Wordfence firewall is called the Basic WordPress Prot
 
 Next coming up, to make the firewall more secure, we can configure the firewall setting to Extended Protection mode.
 
-To turn on Extended Protection, follow these steps:
+**To turn on Extended Protection, follow these steps:**
 
 Choose the "Wordfence" and "Firewall" buttons from the left side sidebar menu. After that, click the "MANAGE FIREWALL" button to visit the "Firewall Options" page.
 
