@@ -6,7 +6,7 @@ To enable the Wordfence plugin, you need to install and activate the "Wordfence"
 
 ![WordPress Two Factor Authentication plugin search result](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordpress_plugins_search_page_wordfence.png)
 
-## Setup the 2FA plugin
+## Setup the Wordfence plugin
 
 See the log
 
