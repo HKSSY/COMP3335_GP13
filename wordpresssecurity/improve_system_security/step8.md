@@ -2,6 +2,8 @@ Wordfence Live Traffic shows you what is happening on your site in real-time, in
 
 ## Configure the Live Traffic function
 
-You can view it by visiting the "Wordfence" and "Tool" buttons from the left side sidebar menu. The default setting of traffic logging mode is "SECURITY ONLY". In this case, for analyzing the traffic we will change the logging mode to "ALL TRAFFIC".
+You can view it by visiting the "Wordfence" and "Tool" buttons from the left side sidebar menu. The default setting of traffic logging mode is "SECURITY ONLY". In this case, for analyzing the traffic we will change the logging mode to "ALL TRAFFIC" and click the "SAVE CHANGES" button to save the change.
 
 ![Select all traffic logging mode](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_live_traffic_mode.png)
+
+g
