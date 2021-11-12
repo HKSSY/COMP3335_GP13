@@ -20,7 +20,7 @@ Once finish the scanning, the text Scan Complete appear in the status line.
 
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_complete.png)
 
-Scroll down the page until you see the Results Found tab. This shows you any problems that Wordfence found from the scan. For each issue, you can click the "DETAILS" button to get more info on the problem.
+Scroll down the page until you see the Results Found tab. This shows you any problems that Wordfence found from the scan. For each issue, you can click the "DETAILS" button to get more information on the problem.
 
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_result.png)
 
