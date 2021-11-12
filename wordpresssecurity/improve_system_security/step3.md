@@ -1,4 +1,4 @@
-We will be going to install a WordPress plugin which is called "WooCommerce". That is is a customizable, open-source eCommerce platform built on WordPress.
+We will be going to install a WordPress plugin which is called "Wordfence". That is an endpoint firewall and malware scanner that were built from the ground up to protect WordPress.
 
 ## Download and Install WooCommerce Plugin
 
