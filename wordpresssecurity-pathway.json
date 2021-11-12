@@ -3,9 +3,9 @@
   "description": "secuirty",
   "courses": [
     {
-      "course_id": "wordpressTest",
+      "course_id": "wordpress_enable_2fa",
       "title": "wordpress+woocommerce",
-      "description": "test"
+      "description": "Enable 2FA on WordPress / WooCommerce"
     }
   ]
 }
