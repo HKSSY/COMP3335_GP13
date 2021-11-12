@@ -1,6 +1,6 @@
-Two Factor Authentication (2FA) is a method of securing your account. The benefit of this approach is to ensure that you're the only person who can access your account, even if someone knows your password. Before you start, you need to install an authenticator application like Google Authenticator, Authy, or Duo on your device.
+Wordfence is an endpoint firewall and malware scanner that was designed for protecting WordPress. Wordfence applies the newest firewall rules, malware signatures and malicious IP addresses need to keep your website safe. We are going to install and configure this plugin for practising how to improve the security level in WordPress.
 
-## Install Authentication Service on WordPress
+## Install Wordfence on WordPress
 
 To enable 2FA service, you need to install and activate the "Two factor Authentication" plugin on the WordPress plugin search page.
 
