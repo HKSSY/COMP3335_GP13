@@ -4,7 +4,7 @@ We will be going to install a WordPress plugin which is called "WooCommerce". Th
 
 The easiest way for installing a free WordPress plugin is using the WordPress Plugin Directory. It starts by clicking on “Plugins” and "Add New" in the sidebar menu:
 
-![The way to find WordPress plugins page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/wordpress_add_new_plugins.png)
+![The way to find WordPress plugins page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordpress_add_new_plugins.png)
 
 Find the plugin by typing the plugin name you are looking for. In this scenario, please type in "WooCommerce" on the search bar. After that, you will see a screen like the one in the screenshot above:
 
