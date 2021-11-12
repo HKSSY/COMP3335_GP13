@@ -16,6 +16,10 @@
       {
         "title": "Install WordPress plugin",
         "text": "step3.md"
+      },
+      {
+        "title": "Setup WooCommerce",
+        "text": "step4.md"
       }
     ],
     "intro": {
