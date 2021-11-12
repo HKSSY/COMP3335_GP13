@@ -6,6 +6,11 @@
       "course_id": "enable_2fa",
       "title": "Enable 2FA on WordPress or WooCommerce",
       "description": "Enable 2FA on WordPress or WooCommerce"
+    },
+    {
+      "course_id": "improve_system_security",
+      "title": "Improve the system security via Wordfence",
+      "description": "Improve the system security via Wordfence"
     }
   ]
 }
