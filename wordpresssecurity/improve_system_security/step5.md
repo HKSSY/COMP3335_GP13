@@ -4,7 +4,7 @@ Wordfence is an endpoint firewall and malware scanner that was designed for prot
 
 To enable 2FA service, you need to install and activate the "Two factor Authentication" plugin on the WordPress plugin search page.
 
-![WordPress Two Factor Authentication plugin search result](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/wordpress_2fa_search_page.png)
+![WordPress Two Factor Authentication plugin search result](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordpress_plugins_search_page_wordfence.png)
 
 ## Setup the 2FA plugin
 
