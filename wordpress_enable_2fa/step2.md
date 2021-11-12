@@ -16,7 +16,7 @@ Select your preferred language and click the "Continue" button.
 
 You should see a welcome page after clicking the "Continue" button. Under the Information needed section, you need to fill out the following fields:
 
-![WordPress Information needed section](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpress_enable_2fa/image/wordpress_information_needed_section.png)
+![WordPress Information needed section](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpress_enable_2fa/image/wordpress_information_needed_section.png)
 
 This screenshot is an example, you may insert your own information for the fields.
 
