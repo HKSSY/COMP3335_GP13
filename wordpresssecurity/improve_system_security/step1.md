@@ -6,7 +6,7 @@ We need to download the docker-compose file. This is a tool for defining and run
 
 Clone our configurations file with the following command:
 
-`wget https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/docker-compose.yml`{{execute}}
+`wget https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/docker-compose.yml`{{execute}}
 
 After the configurations file has been downloaded, please go to the next step.
 
