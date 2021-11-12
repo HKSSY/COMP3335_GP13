@@ -22,8 +22,12 @@
         "text": "step4.md"
       },
       {
-        "title": "Install the Wordfence plugin",
+        "title": "Install and Setup the Wordfence plugin",
         "text": "step5.md"
+      },
+      {
+        "title": "Configure the Wordfence plugin",
+        "text": "step6.md"
       }
     ],
     "intro": {
