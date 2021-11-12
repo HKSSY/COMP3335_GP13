@@ -2,7 +2,7 @@ Next coming up, we will configure the WooCommerce plugin on WordPress. The Setup
 
 ## WooCommerce Setup Wizard
 
-When WooCommerce is activated for the first time, the WooCommerce Setup Wizard will be the next screen you see after clicking "Activate":
+When WooCommerce is activated for the first time, the WooCommerce Setup Wizard will be show up after clicking "Activate": 
 
 ![WooCommerce install page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/enable_2fa/image/woocommerce_install_page.png)
 
