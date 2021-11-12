@@ -1,4 +1,4 @@
-We will be going to install a WordPress plugin which is called "WooCommerce". That is is a customizable, open-source eCommerce platform built on WordPress.
+We will be going to install a WordPress plugin which is called "WooCommerce". That is a customizable, open-source eCommerce platform built on WordPress.
 
 ## Download and Install WooCommerce Plugin
 
