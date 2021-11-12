@@ -3,3 +3,11 @@ A Wordfence scan examines all files on your WordPress website looking for malici
 ## Running Wordfence Scan
 
 A Wordfence scan examines all files on your WordPress site looking for malicious code, backdoors, and shells that hackers have installed. Choose the "Wordfence" and "Scan" buttons from the left side sidebar menu.
+
+![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/enable_2fa/image/wordpress_plugins_search_page.png)
+
+When you first time opens the scan page, a popup will appear a tour of that page’s features and functions on the Scan page. You may click the "NEXT" button in the popup to read the tour or click the little close button to close the popup.
+
+Scroll down the page, you may see the "START NEW SCAN" button on the left side of the page. Click it to begin the first scan of your site.
+
+![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_start_new_scan.png)
