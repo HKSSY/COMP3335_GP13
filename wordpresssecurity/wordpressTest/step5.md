@@ -16,3 +16,12 @@ Upon activation, you need to visit the "Two Factor Auth" page and scroll down to
 
 In this scenario, we will be using Google Authenticator. You can follow this tutorial by using a different app if you want, it is because they all work the same way.
 
+First, click on the "Scan a QR code" button in your authenticator app:
+
+![Scan QR code on Google Authenticator app](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/google_2fa_scan_qr_code.png)
+
+The app may ask permission to access the camera on your phone. You need to allow this permission for scanning the QR code shown on the plugin’s "Current one-time password" section.
+
+Once you are finished, the app starts showing a one-time password that you can use to log in.
+
+![The result on Google Authenticator app](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/google_2fa_import_done.png)
