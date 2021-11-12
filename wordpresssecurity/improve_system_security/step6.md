@@ -11,3 +11,7 @@ When you first time opens the scan page, a popup will appear a tour of that page
 Scroll down the page, you may see the "START NEW SCAN" button on the left side of the page. Click it to begin the first scan of your site.
 
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_start_new_scan.png)
+
+The scan takes anywhere from a few seconds to several minutes to complete. While it’s scanning, you will see a progress bar appear, along with a status message showing you what Wordfence is currently scanning:
+
+![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_process.png)
