@@ -6,4 +6,7 @@ You can view it by visiting the "Wordfence" and "Tool" buttons from the left sid
 
 ![Select all traffic logging mode](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_live_traffic_mode.png)
 
-g
+Try to logout of your WordPress account and re-login the account with the wrong password. After that, login with the correct password, click the "Wordfence" and "Tool" buttons from the left side sidebar menu to the Live Traffic page. Scroll down the page, you can see all logged traffic. 
+
+![View log data from live traffic page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_live_traffic_mode.png)
+
