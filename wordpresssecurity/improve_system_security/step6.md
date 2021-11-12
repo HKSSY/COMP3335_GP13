@@ -15,3 +15,6 @@ Scroll down the page, you may see the "START NEW SCAN" button on the left side o
 The scan takes anywhere from a few seconds to several minutes to complete. While it’s scanning, you will see a progress bar appear, along with a status message showing you what Wordfence is currently scanning:
 
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_process.png)
+
+Once finish the scanning, the text Scan Complete appear in the status line.
+![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_complete.png)
