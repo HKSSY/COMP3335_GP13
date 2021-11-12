@@ -26,8 +26,12 @@
         "text": "step5.md"
       },
       {
-        "title": "Scan the WordPress by Wordfence Plugin",
+        "title": "Run a Wordfence scan to check your website",
         "text": "step6.md"
+      },
+      {
+        "title": "Configure the Wordfence firewall",
+        "text": "step7.md"
       }
     ],
     "intro": {
