@@ -1,6 +1,6 @@
 Wordfence is an endpoint firewall and malware scanner that was designed for protecting WordPress. Wordfence applies the newest firewall rules, malware signatures and malicious IP addresses need to keep your website safe. We are going to install and configure this plugin for practising how to improve the security level in WordPress.
 
-## Install Wordfence on WordPress
+## Download and Install Wordfence plugin
 
 To enable 2FA service, you need to install and activate the "Two factor Authentication" plugin on the WordPress plugin search page.
 
