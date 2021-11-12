@@ -17,3 +17,9 @@ Choose the "Wordfence" and "Firewall" buttons from the left side sidebar menu. A
 On the Firewall Options page, click the "OPTIMIZE THE WORDFENCE FIREWALL" button.
 
 ![Wordfence optimize the wordfence firewall button](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_optimize_firewall.png)
+
+A popup will appear called "Optimize Wordfence Firewall". Normally, the correct server configuration optimization will be automatically selected for you. You should not need to change this option. 
+
+To prevent any issues during the optimization procedure, click the "DOWNLOAD .HTACCESS" button for downloading a backup file about your server configuration file. Next, click the "CONTINUE" button to optimize the firewall.
+
+![Wordfence popup page for optimize the wordfence firewall](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_optimize_wordpress_firewall.png)
