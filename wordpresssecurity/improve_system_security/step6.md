@@ -17,4 +17,5 @@ The scan takes anywhere from a few seconds to several minutes to complete. While
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_process.png)
 
 Once finish the scanning, the text Scan Complete appear in the status line.
+
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_complete.png)
