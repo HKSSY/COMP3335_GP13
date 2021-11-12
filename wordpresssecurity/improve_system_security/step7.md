@@ -25,3 +25,9 @@ To prevent any issues during the optimization procedure, click the "DOWNLOAD .HT
 ![Wordfence popup page for optimize the wordfence firewall](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_optimize_wordpress_firewall.png)
 
 If installed successfully, you should see an alert appear with the message "Nice work! The firewall is now optimized." Click the "CLOSE" button to continue.
+
+## Confirm Extended Protection mode is enable
+
+Under the Basic Firewall Options section, you should notice that the protection level is configured to "Extended Protection". You will also see that the firewall starts in Learning Mode. In this mode, the firewall analyses your site traffic for a while so that it can tell the difference between normal traffic and a hack attempt. The Live Mode will be switched automatically by the firewall and starts protecting your site.
+
+![Wordfence basic firewall options](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_firewall_protection_level.png)
