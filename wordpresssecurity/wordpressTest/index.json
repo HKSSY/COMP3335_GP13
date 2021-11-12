@@ -20,6 +20,10 @@
       {
         "title": "Setup WooCommerce",
         "text": "step4.md"
+      },
+      {
+        "title": "Enable 2FA on WordPress / WooCommerce",
+        "text": "step5.md"
       }
     ],
     "intro": {
