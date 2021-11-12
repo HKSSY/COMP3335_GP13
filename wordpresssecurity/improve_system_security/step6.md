@@ -27,3 +27,5 @@ Scroll down the page until you see the Results Found tab. This shows you any pro
 After you click the "DETAILS" button, you can see the issue details and the available advice or solution.
 
 ![Wordfence tour page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_scan_result_details.png)
+
+This screenshot is an example, you may see the different types of issues. For more type of issue, please click [**here.**](https://www.wordfence.com/help/scan/scan-results/)
