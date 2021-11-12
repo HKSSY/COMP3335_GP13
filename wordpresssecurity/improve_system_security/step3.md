@@ -8,11 +8,11 @@ The easiest way for installing a free WordPress plugin is using the WordPress Pl
 
 Find the plugin by typing the plugin name you are looking for. In this scenario, please type in "WooCommerce" on the search bar. After that, you will see a screen like the one in the screenshot above:
 
-![WordPress plugins searching page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/wordpress_plugins_search_page.png)
+![WordPress plugins searching page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordpress_plugins_search_page.png)
 
 Since in our search, we were looking for WooCommerce form plugin, we will click the "Install Now" button next to it. Wait until WordPress finished downloading and installing the plugin process for you. After that, you will notice the "Install Now" button will change into the "Activate" button.
 
-![WordPress plugins activate](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/wordpress_plugin_activate.png)
+![WordPress plugins activate](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordpress_plugin_activate.png)
 
 ## Activate WooCommerce Plugin
 
