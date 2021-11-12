@@ -8,6 +8,8 @@ To enable the Wordfence plugin, you need to install and activate the "Wordfence"
 
 ## Setup the 2FA plugin
 
+See the log
+
 Upon activation, you need to visit the "Two Factor Auth" page and scroll down to the "Current one-time password" section. The plugin will now show you a QR code which you need to scan using an authenticator app, which can generate a temporary one-time password for the accounts that you save in it.
 
 ![The page for 2FA plugin](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/2fa_scan_qr_code_config.png)
