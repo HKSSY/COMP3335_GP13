@@ -5,3 +5,11 @@ This firewall protects against a number of common web-based attacks as well as a
 ## Setting up the Wordfence firewall
 
 The default setting of the Wordfence firewall is called the Basic WordPress Protection. It’s turned on automatically when you install Wordfence, but to start with it only runs as a WordPress plugin, which doesn’t offer the best level of protection. 
+
+Next coming up, to make the firewall more secure, we can configure the firewall setting to Extended Protection mode.
+
+To turn on Extended Protection, follow these steps:
+
+Choose the "Wordfence" and "Firewall" buttons from the left side sidebar menu. After that, click the "MANAGE FIREWALL" button to visit the "Firewall Options" page.
+
+![Wordfence manage firewall button](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/improve_system_security/image/wordfence_manage_firewall_button.png)
