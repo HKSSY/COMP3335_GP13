@@ -1,6 +1,6 @@
 {
-  "title": "How to improve the security level on WordPress by using Wordfence plugin.",
-  "description": "Welcome! By some estimates, about 30000 to 50000 websites get hacked every day. Being secure in the internet world becomes more and more important and it is necessary to protect your website and the data. In this scenario, we will teach you how to enable the Two-factor authentication(2FA) function on your WordPress / WooCommerce platform to become more secure.",
+  "title": "How to compliant your website with GDPR to satisfy the EU law.",
+  "description": "Welcome! .",
   "difficulty": "Beginner",
   "time": "60",
   "details": {
@@ -22,7 +22,7 @@
         "text": "step4.md"
       },
       {
-        "title": "Enable 2FA on WordPress / WooCommerce",
+        "title": "Install and Setup the CookieYes Plugin",
         "text": "step5.md"
       }
     ],
