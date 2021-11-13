@@ -17,3 +17,13 @@ Upon activation, the plugin will add a new menu item labelled CookieYes to your 
 Once you have completed the step you can see the banner appear on your website.
 
 If you want to customize the text on the cookie bar, please click the "Customise Cookies Bar" to customize the message. For more information, please click [**here.**](https://www.cookieyes.com/cookieyes-setup-guide/)
+
+## Check the result
+
+Move your mouse to the left top side, stay your cursor on the site name. An option will display called "Visit site", please click it.
+
+![WordPress CookieYes plugin search result](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/visit_site_button.png)
+
+After that, you can see the cookie bar on your website. Everybody who visits your website needs to accept the cookie usage rule. The user can click “Accept All” consent to the use of ALL the cookies, or visit "Cookie Settings" to provide a controlled consent.
+
+![WordPress CookieYes plugin search result](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/cookieyes_result.png)
