@@ -10,4 +10,6 @@ To enable the CookieYes plugin, you need to install and activate the "CookieYes"
 
 ## Setup the CookieYes plugin
 
-Upon activation, the plugin will add a new menu item labelled Wordfence to your CookieYessidebar.
+Upon activation, the plugin will add a new menu item labelled CookieYes to your WordPress sidebar. Click the new item, the CookieYes "Settings" page will display for you. To continue, please enable the option "Enable cookie bar".
+
+![Enable cookie bar on CookieYes plugin](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/cookieyes_enable.png)
