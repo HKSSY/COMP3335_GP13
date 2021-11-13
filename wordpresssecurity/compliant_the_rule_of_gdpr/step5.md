@@ -13,3 +13,7 @@ To enable the CookieYes plugin, you need to install and activate the "CookieYes"
 Upon activation, the plugin will add a new menu item labelled CookieYes to your WordPress sidebar. Click the new item, the CookieYes "Settings" page will display for you. To continue, please enable the option "Enable cookie bar" in the General tag.
 
 ![Enable cookie bar on CookieYes plugin](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/cookieyes_enable.png)
+
+Once you have completed the step you can see the banner appear on your website.
+
+If you want to customize the text on the cookie bar, please click the "Customise Cookies Bar" to customize the message. For more information, please click [**here.**](https://www.cookieyes.com/cookieyes-setup-guide/)
