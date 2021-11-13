@@ -11,6 +11,11 @@
       "course_id": "improve_system_security",
       "title": "Improve the system security via Wordfence",
       "description": "Improve the system security via Wordfence"
+    },
+    {
+      "course_id": "compliant_the_rule_of_gdpr",
+      "title": "Compliant with GDPR to satisfy the EU law",
+      "description": "Install WordPress plugin to help your website to compliant with GDPR requirement"
     }
   ]
 }
