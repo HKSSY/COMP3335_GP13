@@ -7,3 +7,7 @@ The CookieYes plugin will assist you in making your website GDPR (RGPD, DSVGO) c
 To enable the CookieYes plugin, you need to install and activate the "CookieYes" plugin on the WordPress plugin search page.
 
 ![WordPress CookieYes plugin search result](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/wordpress_cookieyes_search_page.png)
+
+## Setup the CookieYes plugin
+
+Upon activation, the plugin will add a new menu item labelled Wordfence to your CookieYessidebar.
