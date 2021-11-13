@@ -4,7 +4,7 @@ After starting the container, let's connect to the WordPress service and install
 
 Click the "WordPress" button on the navigation bar.
 
-!["WordPress" button on the navigation bar](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/select_wordpress.png)
+!["WordPress" button on the navigation bar](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/select_wordpress.png)
 
 On the page, the "Web Preview Port Selector" will try to connect the port 8080, which is configured for WordPress by the docker-compose. If connected successfully, the WordPress installation page will display. Otherwise, press the "Try again" button for reconnecting the port.
 
@@ -12,11 +12,11 @@ On the page, the "Web Preview Port Selector" will try to connect the port 8080, 
 
 Select your preferred language and click the "Continue" button.
 
-![WordPress installation page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/wordpress_install_page.png)
+![WordPress installation page](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/wordpress_install_page.png)
 
 You should see a welcome page after clicking the "Continue" button. Under the Information needed section, you need to fill out the following fields:
 
-![WordPress Information needed section](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/wordpressTest/image/wordpress_information_needed_section.png)
+![WordPress Information needed section](https://raw.githubusercontent.com/HKSSY/katacoda-scenarios/main/wordpresssecurity/compliant_the_rule_of_gdpr/image/wordpress_information_needed_section.png)
 
 This screenshot is an example, you may insert your own information for the fields.
 
