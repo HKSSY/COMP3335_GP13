@@ -14,4 +14,4 @@ To enable schedule automatic backup service, you need to install and activate th
 
 Upon activation, you will jump to the "Installed Plugins" page. On the page, a popup will be displayed, click the "Press here to start" button to start configuring this plugin.
 
-![Click the button to configure the UpdraftPlus plugin](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/wordpress_backup_search_page.png)
+![Click the button to configure the UpdraftPlus plugin](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_popup.png)
