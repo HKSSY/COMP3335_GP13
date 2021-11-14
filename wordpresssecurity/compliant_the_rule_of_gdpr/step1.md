@@ -1,3 +1,5 @@
+GDPR's primary aim is to enhance individuals' control and rights over their personal data. Its applicability outside of the European Union, so the website should make your website compliant with the GDPR request.
+
 We'll start by downloading the docker-compose file. Then, we'll execute the docker-compose and select the tag "WordPress" for connecting the WordPress service.
 
 ## Download the Configuration File
