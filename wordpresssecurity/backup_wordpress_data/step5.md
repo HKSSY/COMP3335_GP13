@@ -30,6 +30,16 @@ You can select the frequency to backup your website data and retain how many bac
 
 By default, UpdraftPlus stores the backups locally on the server. To use a remote storage location, in the "Choose your remote storage" section, select where you want to store your backup files.
 
-After that, scroll down the page, you can see the "Save Changes" button to save your configuration. Click the "Settings" button on the top side and click the "Backup Now" on the next scheduled backups section for your first-time backup.
+After that, scroll down the page, you can see the "Save Changes" button to save your configuration. 
+
+## Run your first-time backup
+
+Click the "Settings" button on the top side and click the "Backup Now" on the next scheduled backups section for your first-time backup.
 
 ![UpdraftPlus backup now button](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_backup_now.png)
+
+A popup window will be displayed, you may select what data for backup. By default setting is to backup all website data, click "Backup Now" to backup.
+
+The backup takes anywhere from a few seconds to several minutes to complete. Once finish the backup, backup is successful popup will be displayed. Scroll down the page, in the "Existing backups" section, you may see all available backups.
+
+![UpdraftPlus existing backup](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_exisiting_backup.png)
