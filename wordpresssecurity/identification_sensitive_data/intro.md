@@ -1,1 +1,0 @@
-The way to improve system security via Wordfence
