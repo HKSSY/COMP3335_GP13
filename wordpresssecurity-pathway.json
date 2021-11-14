@@ -4,7 +4,7 @@
   "courses": [
     {
       "course_id": "backup_wordpress_data",
-      "title": "Backup your improtant data by schedule",
+      "title": "Backup your important data by schedule",
       "description": "Learn how to backup your website data"
     },
     {
