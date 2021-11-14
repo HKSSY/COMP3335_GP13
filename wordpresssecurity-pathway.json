@@ -3,7 +3,7 @@
   "description": "secuirty",
   "courses": [
     {
-      "course_id": "backup_wordpress_data",
+      "course_id": "backup_wordpress_databbbb",
       "title": "Backup your important data by schedule",
       "description": "Learn how to backup your website data"
     },
