@@ -3,6 +3,11 @@
   "description": "secuirty",
   "courses": [
     {
+      "course_id": "identification_sensitive_data",
+      "title": "Identification of personal sensitive data",
+      "description": "Learn how to discover personal sensitive data"
+    },
+    {
       "course_id": "enable_2fa",
       "title": "Enable 2FA on WordPress or WooCommerce",
       "description": "Enable 2FA on WordPress or WooCommerce"
@@ -16,11 +21,6 @@
       "course_id": "compliant_the_rule_of_gdpr",
       "title": "Compliant with GDPR to satisfy the EU law",
       "description": "Install WordPress plugin to help your website to compliant with GDPR requirement"
-    },
-    {
-      "course_id": "identification_sensitive_data",
-      "title": "Identification of personal sensitive data",
-      "description": "Learn how to discover personal sensitive data"
     }
   ]
 }
