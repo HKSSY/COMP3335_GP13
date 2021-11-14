@@ -1,6 +1,6 @@
 {
-  "title": "How to improve the security level on WordPress by using Wordfence plugin.",
-  "description": "Welcome! By some estimates, about 30000 to 50000 websites get hacked every day. Being secure in the internet world becomes more and more important and it is necessary to protect your website and the data. In this scenario, we will teach you how to enable the Two-factor authentication(2FA) function on your WordPress / WooCommerce platform to become more secure.",
+  "title": "Learn how to backup by schedule on WordPress by using the plugin.",
+  "description": "Welcome! The purpose of the backup is to create a copy of data that can be recovered in the event of your website data failure. Data failures can be the result of hardware or software failure, data corruption, or a human-caused event, such as a malicious attack, or accidental deletion of data. Backup copies allow data to be restored from an earlier point in time to help your website recover from an unplanned event.",
   "difficulty": "Beginner",
   "time": "60",
   "details": {
@@ -22,7 +22,7 @@
         "text": "step4.md"
       },
       {
-        "title": "Enable 2FA on WordPress / WooCommerce",
+        "title": "Install and Setup the UpdraftPlus Plugin",
         "text": "step5.md"
       }
     ],
