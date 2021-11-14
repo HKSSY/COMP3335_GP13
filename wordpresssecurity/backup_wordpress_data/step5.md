@@ -43,3 +43,7 @@ A popup window will be displayed, you may select what data for backup. By defaul
 The backup takes anywhere from a few seconds to several minutes to complete. Once finish the backup, backup is successful popup will be displayed. Scroll down the page, in the "Existing backups" section, you may see all available backups.
 
 ![UpdraftPlus existing backup](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_exisiting_backup.png)
+
+To restore a backup, locate the backup you want to restore, and then click Restore.
+
+A reliable backup can help easy to restore your website when necessary, preventing the website damage to cause data loss.
