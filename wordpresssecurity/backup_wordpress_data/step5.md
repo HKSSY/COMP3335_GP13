@@ -27,3 +27,5 @@ You may see the "Settings" button on the top side of the page. Click it to begin
 You can select the frequency to backup your website data and retain how many backups for you. This screenshot is an example, you may configure your own backup frequency and the number of backups to retain.
 
 ![UpdraftPlus backup setting configure](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_backup_config.png)
+
+By default, UpdraftPlus stores the backups locally on the server. To use a remote storage location, in the "Choose your remote storage" section, select where you want to store your backup files.
