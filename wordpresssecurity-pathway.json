@@ -3,9 +3,9 @@
   "description": "secuirty",
   "courses": [
     {
-      "course_id": "identification_sensitive_data",
-      "title": "Identification of personal sensitive data",
-      "description": "Learn how to discover personal sensitive data"
+      "course_id": "backup_wordpress_data",
+      "title": "Backup your improtant data by schedule",
+      "description": "Learn how to backup your website data"
     },
     {
       "course_id": "enable_2fa",
