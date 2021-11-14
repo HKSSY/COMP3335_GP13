@@ -2,11 +2,11 @@ version: "3.3"
     
 services:
   db:
-    image: mysql:latest
-    volumes:
+  image: mysql:latest
+  volumes:
       - db_data:/var/lib/mysql
-    restart: always
-    environment:
+  restart: always
+  environment:
       MYSQL_ROOT_PASSWORD: password
       MYSQL_DATABASE: wordpress
       MYSQL_USER: wordpress
@@ -27,14 +27,13 @@ services:
       WORDPRESS_DB_PASSWORD: wordpress
       WORDPRESS_DB_NAME: wordpress
 
-
-    phpmyadmin:
-      image: phpmyadmin:latest
-      restart: always
-      ports:
-        - "8090:80"
-      environment:
-        - PMA_ARBITRARY=1
+  phpmyadmin:
+    image: phpmyadmin:latest
+    restart: always
+    ports:
+      - "8090:80"   
+    environment:
+      - PMA_ARBITRARY=1
 volumes:
   db_data: {}
   wordpress_data: {}
