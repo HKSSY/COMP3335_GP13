@@ -32,7 +32,7 @@ By default, UpdraftPlus stores the backups locally on the server. To use a remot
 
 After that, scroll down the page, you can see the "Save Changes" button to save your configuration. 
 
-## Run your first-time backup
+## Save your first backup
 
 Click the "Settings" button on the top side and click the "Backup Now" on the next scheduled backups section for your first-time backup.
 
