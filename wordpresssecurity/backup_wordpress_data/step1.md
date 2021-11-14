@@ -1,3 +1,5 @@
+The purpose of the backup is to create a copy of data that can be recovered in the event of your website data failure. Data failures can be the result of hardware or software failure, data corruption, or a human-caused event. Backup copies allow data to be restored from an earlier point in time to help your website recover from an unplanned event.
+
 We'll start by downloading the docker-compose file. Then, we'll execute the docker-compose and select the tag "WordPress" for connecting the WordPress service.
 
 ## Download the Configuration File
