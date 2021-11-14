@@ -1,3 +1,5 @@
+Cyberthreats including malware, viruses, and other security threats are always evolving and becoming more dangerous and harder to detect. WordFence is a popular plugin on WordPress, it is a firewall is a PHP based, an application-level firewall that filters out malicious requests to your site. In this scenario, we are going to install and configure the WordFence plugin on WordPress to improve your website security level.
+
 We'll start by downloading the docker-compose file. Then, we'll execute the docker-compose and select the tag "WordPress" for connecting the WordPress service.
 
 ## Download the Configuration File
