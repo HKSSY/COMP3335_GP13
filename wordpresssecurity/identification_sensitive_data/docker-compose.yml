@@ -29,7 +29,7 @@ services:
 
 
     phpmyadmin:
-      image: phpmyadmin
+      image: phpmyadmin:latest
       restart: always
       ports:
         - "8090:80"
