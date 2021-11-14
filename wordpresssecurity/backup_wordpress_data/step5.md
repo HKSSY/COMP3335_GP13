@@ -17,3 +17,6 @@ Upon activation, you will jump to the "Installed Plugins" page. On the page, a p
 ![Click the button to configure the UpdraftPlus plugin](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_popup.png)
 
 When you first time opens the setting page, a popup will appear a tour. 
+
+![UpdraftPlus plugin tour popup](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_first_backup.png)
+
