@@ -1,3 +1,5 @@
+By some estimates, about 30000 to 50000 websites get hacked every day. Being secure in the internet world becomes more and more important and it is necessary to protect your website and the data. In this scenario, we will teach you how to enable the Two-factor authentication(2FA) function on your WordPress / WooCommerce platform to become more secure.
+
 We'll start by downloading the docker-compose file. Then, we'll execute the docker-compose and select the tag "WordPress" for connecting the WordPress service.
 
 ## Download the Configuration File
