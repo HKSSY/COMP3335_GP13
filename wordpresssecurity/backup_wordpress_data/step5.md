@@ -16,7 +16,14 @@ Upon activation, you will jump to the "Installed Plugins" page. On the page, a p
 
 ![Click the button to configure the UpdraftPlus plugin](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_popup.png)
 
-When you first time opens the setting page, a popup will appear a tour. 
+When you first time opens the Backup/Restore page, a popup will appear a tour. You may click the "NEXT" button in the popup to read the tour or click the little close button to close the popup.
 
 ![UpdraftPlus plugin tour popup](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_first_backup.png)
 
+You may see the "Settings" button on the top side of the page. Click it to begin the files and database backup schedule of your site.
+
+![UpdraftPlus settings button](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_setting_button.png)
+
+You can select the frequency to backup your website data and retain how many backups for you. This screenshot is an example, you may configure your own backup frequency and the number of backups to retain.
+
+![UpdraftPlus backup setting configure](https://raw.githubusercontent.com/HKSSY/COMP3335_GP13/main/wordpresssecurity/backup_wordpress_data/image/updraftplus_backup_config.png)
