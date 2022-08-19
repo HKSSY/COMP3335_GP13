@@ -1,4 +1,7 @@
-# Interactive Katacoda Scenarios
+# COMP3335_GP13
+This project has created some Katacoda interactive hands-on scenarios to improve the security awareness of the sales and marketing team related to the use of the WordPress and WooCommerce platforms. To enhance the hands-on skills of the operations and software development teams to improve the security of the WordPress and WooCommerce platforms.
+
+## Interactive Katacoda Scenarios
 
 [![](http://shields.katacoda.com/katacoda/hkssy/count.svg)](https://www.katacoda.com/hkssy "Get your profile on Katacoda.com")
 
