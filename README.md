@@ -17,4 +17,4 @@ For examples, visit https://github.com/katacoda/scenario-example
 * Roland MOK
 * Sam KAN
 * Peter YUK
-* Oscar NG
+* [BBQHK](https://github.com/BBQHK)
